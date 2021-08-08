@@ -12,3 +12,13 @@ Redis is used as cache store for the restaurant details.
 
 Postrgres Tables : Restaurants , Reviews
 
+Reviews: 
+
+![image](https://user-images.githubusercontent.com/47826916/128622183-21deba65-3487-4429-abca-6bfbdd55b3ab.png)
+
+Restaurant :
+
+![image](https://user-images.githubusercontent.com/47826916/128622187-8ebf04e1-5f25-40fa-b71b-ba696520cd07.png)
+
+
+
